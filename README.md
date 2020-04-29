@@ -2,7 +2,7 @@
 Hi! Thanks for checking out my work. This readme file serves as a directory. Please see below for my English and Chinese writings.
 
 ## English writings
-Please see [My Medium blog](https://medium.com/@ze_chen)
+Please see [my Medium blog](https://medium.com/@ze_chen)
 
 ## 中文文章
 
