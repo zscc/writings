@@ -24,4 +24,4 @@ Please see [My Medium blog](https://medium.com/@ze_chen)
 ### 技术总结
 [Benedikt做客以太坊联盟，揭示区块链密码学与应用间的碰撞](https://mp.weixin.qq.com/s/-5FRy7ZgY7ulhFj4v3Ev6g)
 
-[安全、扩容、51%攻击……斯坦福区块链大会精彩回顾](https://mp.weixin.qq.com/s/jyID8BOgIU0UbVTVJSSJdA)# writings
+[安全、扩容、51%攻击……斯坦福区块链大会精彩回顾](https://mp.weixin.qq.com/s/jyID8BOgIU0UbVTVJSSJdA)
