@@ -6,7 +6,7 @@ Please see [my Medium blog](https://medium.com/@ze_chen)
 
 ## 中文文章
 
-These articles are hosted on Wechat. 
+以下文章都是以Findora名义在其官方微信公众号上发布。
 
 ### 用例分析
 [从诺亚暴雷事件再谈供应链金融的先进治理](https://mp.weixin.qq.com/s/hPC7iRgW6Tz0q73FiFahog)
