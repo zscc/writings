@@ -15,7 +15,7 @@ Please see [My Medium blog](https://medium.com/@ze_chen)
 [Fundamental Value of Binance Coin (BNB)](https://medium.com/@ze_chen/crypto-fundamental-value-inherent-value-of-bnb-78ab6b0ba83)
 
 
-[Blockchain Project Review — LTO Network](https://medium.com/@ze_chen/blockchain-project-review-lto-network-57b98b24f5a6]
+[Blockchain Project Review — LTO Network](https://medium.com/@ze_chen/blockchain-project-review-lto-network-57b98b24f5a6)
 
 ## 中文文章
 以下文章都是以Findora名义在其官方微信公众号上发布的。
