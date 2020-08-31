@@ -9,13 +9,16 @@ Please see [My Medium blog](https://medium.com/@ze_chen)
 [What are Zero-Knowledge Proofs? Intuition for Beginners](https://medium.com/@ze_chen/what-are-zero-knowledge-proofs-intuition-for-beginners-ef4dadccb61e)
 
 ### Data Analytics
-[Exploring Statistical Arbitrage in Cryptocurrency](https://medium.com/analytics-vidhya/exploring-statistical-arbitrage-in-cryptocurrency-924ad6bf2a57) _featured in Analytics Vidhya – India's largest data science community on Medium_
+[Exploring Statistical Arbitrage in Cryptocurrency](https://medium.com/analytics-vidhya/exploring-statistical-arbitrage-in-cryptocurrency-924ad6bf2a57) _featured on Analytics Vidhya – India's largest data science community on Medium_
 
 ### Project Evaluations
+[The Interesting Use Cases of JPM Coin](https://medium.com/coinmonks/the-interesting-use-cases-of-jpm-coin-3cbe1b747e1f) _featured on Coinmonks – Medium's de facto crypto/blockchain content publisher_
+
 [Fundamental Value of Binance Coin (BNB)](https://medium.com/@ze_chen/crypto-fundamental-value-inherent-value-of-bnb-78ab6b0ba83)
 
-
 [Blockchain Project Review — LTO Network](https://medium.com/@ze_chen/blockchain-project-review-lto-network-57b98b24f5a6)
+
+
 
 ## 中文文章
 以下文章都是以Findora名义在其官方微信公众号上发布的。
